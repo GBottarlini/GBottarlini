@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, Soy Genaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Desarrollador Web Front-End (proximo a convertinerme en FullStack)<br>Argentino 🇦🇷</h3>
 
-- 🔭 Me encuentro estuiando en  **CoderHouse**
+- 🔭 Me encuentro estudiando en  **CoderHouse**
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript**
 
