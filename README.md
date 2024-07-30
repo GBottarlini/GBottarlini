@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1 align="center">Hola 👋, Soy Genaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Desarrollador Web Front-End (proximo a convertinerme en FullStack)<br>Argentino 🇦🇷</h3>
+<h3 align="center">Front-End Developer (proximo a convertinerme en FullStack)<br>Argentino 🇦🇷</h3>
 
 - 🔭 Me encuentro estudiando en  **CoderHouse**
 
