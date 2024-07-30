@@ -5,11 +5,11 @@
 
 - 🔭 Me encuentro estudiando en  **CoderHouse**
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript**
+- 🌱 Actualmente estoy aprendiendo **React Js**
 
 - 👯 Queriendo introducirme en el mundo laboral del **Front-end**
 
-- ⚡ Proximo curso por aprender **Reacj JS**
+- ⚡ Proximo curso por aprender **NodeJS**
 
 
 
