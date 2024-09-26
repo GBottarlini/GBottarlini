@@ -63,13 +63,13 @@
 ### 🏆 Proyectos Destacados
 
 <p align="center">
-  <a href="[https://github.com/GBottarlini/product-comparator](https://github.com/GBottarlini/BOTTARLINI_62010_FINAL)">
+  <a href="https://github.com/GBottarlini/BOTTARLINI_62010_FINAL" target="_blank" >
     <img src="https://img.shields.io/badge/-Comparador_de_Productos-blue?style=for-the-badge" alt="Comparador de Productos" />
   </a>
-  <a href="[https://github.com/GBottarlini/portfolio](https://github.com/GBottarlini/Portfolio-Genaro-Bottarlini)">
+  <a href="https://github.com/GBottarlini/Portfolio-Genaro-Bottarlini" target="_blank" >
     <img src="https://img.shields.io/badge/-Portfolio_Personal-green?style=for-the-badge" alt="Portfolio Personal" />
   </a>
-  <a href="[https://github.com/GBottarlini/ecommerce-react](https://github.com/GBottarlini/Ecommerce-Bottarlini)">
+  <a href="https://github.com/GBottarlini/Ecommerce-Bottarlini" target="_blank" >
     <img src="https://img.shields.io/badge/-Ecommerce_React-orange?style=for-the-badge" alt="Ecommerce React" />
   </a>
 </p>
