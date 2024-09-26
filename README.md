@@ -63,7 +63,7 @@
 ### 🏆 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/GBottarlini/BOTTARLINI_62010_FINAL" target="_blank" >
+  <a href="https://github.com/GBottarlini/BOTTARLINI_62010_FINAL" target="_blank">
     <img src="https://img.shields.io/badge/-Comparador_de_Productos-blue?style=for-the-badge" alt="Comparador de Productos" />
   </a>
   <a href="https://github.com/GBottarlini/Portfolio-Genaro-Bottarlini" target="_blank" >
