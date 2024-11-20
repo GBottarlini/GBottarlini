@@ -14,8 +14,8 @@
 <img src="https://user-images.githubusercontent.com/59148446/104850451-70699d80-58e9-11eb-9d4c-9ed95d28944e.gif" alt="ilustración de desarrollo web" min-width="400px" max-width="400px" width="400px" align="right" />
 
 ### Sobre mí
-- 🔭 Actualmente estudio en **CoderHouse** y me enfoco en el desarrollo **Front-End**.
-- 🌱 Estoy aprendiendo **React JS** y próximamente profundizaré en **NodeJS**.
+- 🔭 Actualmente estudio en **CoderHouse** y me enfoco en el desarrollo **FullStack**.
+- 🌱 Estoy aprendiendo **NodeJS** y próximamente profundizaré en **MondoDB**.
 - 💼 Me interesa participar en proyectos que me permitan crecer como desarrollador y trabajar con equipos multidisciplinarios.
 - 🎯 **Objetivo**: Contribuir a proyectos que requieran creatividad y buenas prácticas en desarrollo web.
 - 📚 Continuamente aprendiendo y mejorando mis habilidades técnicas y blandas.
