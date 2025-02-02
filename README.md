@@ -15,7 +15,7 @@
 
 ### Sobre mí
 - 🔭 Actualmente estudio en **CoderHouse** y me enfoco en el desarrollo **FullStack**.
-- 🌱 Estoy aprendiendo **NodeJS** y próximamente profundizaré en **MondoDB**.
+- 🌱 Estoy aprendiendo **NodeJS**.
 - 💼 Me interesa participar en proyectos que me permitan crecer como desarrollador y trabajar con equipos multidisciplinarios.
 - 🎯 **Objetivo**: Contribuir a proyectos que requieran creatividad y buenas prácticas en desarrollo web.
 - 📚 Continuamente aprendiendo y mejorando mis habilidades técnicas y blandas.
