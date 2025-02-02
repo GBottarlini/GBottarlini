@@ -58,24 +58,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GBottarlini&theme=react-dark&no-frame=true&margin-w=10&row=1&column=6" alt="github trophies"/>
 </p>
 
----
-/**
-### 🏆 Proyectos Destacados
-
-<p align="center">
-  <a href="https://github.com/GBottarlini/BOTTARLINI_62010_FINAL" target="_blank">
-    <img src="https://img.shields.io/badge/-Comparador_de_Productos-blue?style=for-the-badge" alt="Comparador de Productos" />
-  </a>
-  <a href="https://github.com/GBottarlini/Portfolio-Genaro-Bottarlini" target="_blank" >
-    <img src="https://img.shields.io/badge/-Portfolio_Personal-green?style=for-the-badge" alt="Portfolio Personal" />
-  </a>
-  <a href="https://github.com/GBottarlini/Ecommerce-Bottarlini" target="_blank" >
-    <img src="https://img.shields.io/badge/-Ecommerce_React-orange?style=for-the-badge" alt="Ecommerce React" />
-  </a>
-</p>
 
 ---
-**/
+
 ### 🎓 Certificaciones y Logros
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/certificate.png" alt="Certificaciones" width="40" height="40"/>
