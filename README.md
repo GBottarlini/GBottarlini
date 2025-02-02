@@ -59,7 +59,7 @@
 </p>
 
 ---
-
+/**
 ### 🏆 Proyectos Destacados
 
 <p align="center">
@@ -75,7 +75,7 @@
 </p>
 
 ---
-
+**/
 ### 🎓 Certificaciones y Logros
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/certificate.png" alt="Certificaciones" width="40" height="40"/>
