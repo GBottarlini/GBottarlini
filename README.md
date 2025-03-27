@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/7506831/94383621-6e798c00-0123-11eb-9e0d-8f04d0d13db6.gif" alt="bienvenida" min-width="400px" max-width="400px" width="100%" align="center" />
 
 <h1 align="center">Hola, soy Genaro 👋</h1>
-<h3 align="center">Desarrollador Front-End | En constante aprendizaje 🚀</h3>
-<p align="center">Apasionado por construir interfaces funcionales y estéticas. Actualmente, me preparo para convertirme en FullStack Developer. ¡Bienvenido a mi perfil de GitHub!</p>
+<h3 align="center">Desarrollador FullStack | En constante aprendizaje 🚀</h3>
+<p align="center">Apasionado por construir interfaces funcionales y estéticas. ¡Bienvenido a mi perfil de GitHub!</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/GBottarlini?label=Seguidores&style=social" alt="github followers"/>
