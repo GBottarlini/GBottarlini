@@ -35,7 +35,7 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="#" target="_blank"> 
-    <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" alt="nodejs" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/>
