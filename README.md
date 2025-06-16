@@ -43,7 +43,6 @@
 |----------------------------------|------------------------------------------------------|--------------------------------------------|
 | **Ipoint E-commerce SPA**        | SPA con catálogo, carrito y pasarela de pagos (React + Node) | [GitHub](https://github.com/GBottarlini/ipoint-ecommerce) |
 | **Blog de Café (HTML/CSS)**      | Maquetado responsive con foco UX                     | [GitHub](https://github.com/GBottarlini/blog-cafe)         |
-| *(añade aquí tus próximos proyectos)* |                                                     |                                            |
 
 ---
 
