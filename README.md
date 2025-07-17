@@ -1,89 +1,60 @@
-<img src="https://user-images.githubusercontent.com/7506831/94383621-6e798c00-0123-11eb-9e0d-8f04d0d13db6.gif" width="100%" alt="bienvenida" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Genaro+Bottarlini+%F0%9F%91%8B;Desarrollador+Full+Stack+Web+%F0%9F%94%A5;React+%E2%80%A2+Node+%E2%80%A2+Mongo+%E2%80%A2+PHP+%E2%80%A2+MySQL" alt="Typing SVG" />
+</p>
 
-<h1 align="center">¡Hola! Soy Genaro 👋</h1>
-<h3 align="center">Desarrollador Web Full Stack 🚀</h3>
-<p align="center">Apasionado por construir soluciones digitales con React, Node.js y MongoDB. Bienvenido a mi espacio en GitHub.</p>
+<h2 align="center">🧑‍💻 Sobre mí</h2>
+
+<p align="center">Soy Genaro (Gena), desarrollador Full Stack web, con formación intensiva en Coderhouse y actualmente cursando la Tecnicatura Universitaria en Programación (UTN).<br/>
+Participo en proyectos reales como desarrollador frontend freelance, aplicando buenas prácticas y trabajo en equipo. Me apasiona aprender, construir y colaborar.</p>
+
+---
+
+### 🚀 Tecnologías que uso
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/GBottarlini?label=Seguidores&style=social" alt="Seguidores GitHub"/>
-  <img src="https://img.shields.io/github/stars/GBottarlini?label=Estrellas&style=social" alt="Estrellas GitHub"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,git,github,tailwind,vite,figma" />
 </p>
 
 ---
 
-### 🔎 Sobre mí
-- 🎓 Estudiante de **Full Stack Web** en CoderHouse (Top 10 de la clase).  
-- 💼 Experiencia en e-commerce y atención al cliente:  
-  - **Analista de E-commerce** en Concesionario Nation (oct 2024 – actualidad)  
-  - **Encargado de tienda** en KOL Accesorios (+30 % ventas electrónicos)  
-  - **Operador telefónico** en MAPFRE Asistencia  
-- 🎯 Busco proyectos que requieran creatividad, buenas prácticas y aprendizaje continuo.
+### 🛠️ Proyectos Destacados
+
+| Proyecto                             | Descripción                                                              | Enlace                                                                 |
+|--------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **PriCut (Ecuador)**                 | Proyecto real como frontend freelance – React, Git, CSS, Figma           | [🌐 Demo beta](https://pricut-frontend-development-8261.up.railway.app/) |
+| **Gestor de Clientes – Nación**      | App full stack con WebSocket + filtros por sucursal, km, patente         | [📁 Frontend](https://github.com/GBottarlini/frontNation) · [🗂 Backend](https://github.com/GBottarlini/backNation) |
+| **Ipoint E-commerce SPA**            | Tienda online con React, Node, carrito y pasarela de pagos integrada     | [🛒 GitHub](https://github.com/GBottarlini/ipoint-ecommerce)             |
+| **Blog de Café**                     | Maquetado HTML/CSS responsive desde cero                                 | [☕ GitHub](https://github.com/GBottarlini/blog-cafe)                     |
 
 ---
 
-### 🚀 Stack Tecnológico
+### 🎓 Formación
+
+- 🎓 **Coderhouse** – Carrera Full Stack Developer (2024–2025)  
+- 🧑‍🎓 **UTN** – Tecnicatura Universitaria en Programación (En curso)  
+- 🎯 **Certificado Product Ads – Mercado Libre**  
+- 🧠 **Beca Google/Coursera – Gestión de Proyectos**
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" />
-  <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="40" />
-  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" width="40" />
-  <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" width="40" />
-  <img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" />
-  <img alt="Express" src="https://img.icons8.com/ios/50/express-js.png" width="40" />
-  <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" />
-  <img alt="Tailwind CSS" src="https://img.icons8.com/color/48/tailwind_css.png" width="40" />
-  <img alt="Socket.io" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" />
-  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" width="40" />
-  <img alt="GitHub" src="https://img.icons8.com/material-outlined/48/000000/github.png" width="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GBottarlini&theme=react&show_icons=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBottarlini&layout=compact&theme=react" height="150"/>
 </p>
 
 ---
 
-### 🌟 Proyectos Destacados
-
-| Proyecto                           | Descripción breve                                             | Enlace                                                                 |
-|------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|
-| **Gestor de Clientes - Nación**    | App full stack con filtros por km, patente, sucursal y WebSocket | [Repositorio Frontend](https://github.com/GBottarlini/frontNation)  |
-|                                    |                                                                | [Repositorio Backend](https://github.com/GBottarlini/backNation)    |
-| **Ipoint E-commerce SPA**          | SPA con catálogo, carrito y pasarela de pagos (React + Node)   | [GitHub](https://github.com/GBottarlini/ipoint-ecommerce)            |
-| **Blog de Café (HTML/CSS)**        | Maquetado responsive con foco UX                               | [GitHub](https://github.com/GBottarlini/blog-cafe)                    |
-
----
-
-### 🎓 Educación & Certificaciones
-
-- **Full Stack Web** – CoderHouse (2024–2025)  
-  - Certificaciones Desarrollo Web FullStack (Top 10).  
-
----
-
-### 🏆 Logros
-
-- 🔥 Incremento del **30 % en ventas** de productos electrónicos en KOL Accesorios.  
-- 🚀 Mejora de visibilidad y facturación en Concesionario Nation.  
-- 🏅 Top 10 en la carrera de Desarrollo Web FullStack en CoderHouse.
-
----
-
-### 📈 Mis estadísticas en GitHub
+### 🌐 Conectemos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GBottarlini&theme=gruvbox&show_icons=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBottarlini&theme=react&layout=compact" height="150" />
+  <a href="https://linkedin.com/in/genarobottarlini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bottarlini.99@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-bottarlini.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/GBottarlini"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🤝 ¡Conectemos!
-
-<p align="center">
-  <a href="https://linkedin.com/in/genarobottarlini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bottarlini.99@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/GBottarlini"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-```text
-“Aprender, crear y compartir son mis pasos diarios en el camino del desarrollo web.”
-```
+<p align="center"><em>“Aprender, crear y compartir son mis pasos diarios en el camino del desarrollo web.”</em></p>
