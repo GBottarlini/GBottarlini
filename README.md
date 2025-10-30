@@ -21,7 +21,7 @@ Participo en proyectos reales como desarrollador frontend freelance, aplicando b
 
 | Proyecto                             | Descripción                                                              | Enlace                                                                 |
 |--------------------------------------|---------------------------------------------------------------------------|------------------------------------------------------------------------|
-| **PriCut (Ecuador)**                 | Proyecto real como frontend freelance – React, Git, CSS, Figma           | [🌐 Demo beta](https://pricut-frontend-development-8261.up.railway.app/) |
+| **PriCut (Ecuador)**                 | Proyecto real como frontend freelance – React, Git, CSS, Figma           | [🌐 Pricut](https://pricut.com/) |
 | **Gestor de Clientes – Nación**      | App full stack con WebSocket + filtros por sucursal, km, patente         | [📁 Frontend](https://github.com/GBottarlini/frontNation) · [🗂 Backend](https://github.com/GBottarlini/backNation) |
 | **Ipoint E-commerce SPA**            | Tienda online con React, Node, carrito y pasarela de pagos integrada     | [🛒 GitHub](https://github.com/GBottarlini/ipoint-ecommerce)             |
 | **Blog de Café**                     | Maquetado HTML/CSS responsive desde cero                                 | [☕ GitHub](https://github.com/GBottarlini/blog-cafe)                     |
